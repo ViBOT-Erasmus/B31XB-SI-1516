@@ -1,0 +1,21 @@
+[submodule "B31XI-SI-Features-Extraction"]
+	path = B31XI-SI-Features-Extraction
+	url = https://github.com/ViBOT-Erasmus/B31XI-SI-Features-Extraction.git
+[submodule "B31XI-SI-Features-Normalisation"]
+	path = B31XI-SI-Features-Normalisation
+	url = https://github.com/ViBOT-Erasmus/B31XI-SI-Features-Normalisation.git
+[submodule "B31XI-SI-Features-Selection"]
+	path = B31XI-SI-Features-Selection
+	url = https://github.com/ViBOT-Erasmus/B31XI-SI-Features-Selection.git
+[submodule "B31XI-SI-Probabilistic-Classifiers"]
+	path = B31XI-SI-Probabilistic-Classifiers
+	url = https://github.com/ViBOT-Erasmus/B31XI-SI-Probabilistic-Classifiers.git
+[submodule "B31XI-SI-Ensemble-Classifiers"]
+	path = B31XI-SI-Ensemble-Classifiers
+	url = https://github.com/ViBOT-Erasmus/B31XI-SI-Ensemble-Classifiers.git
+[submodule "B31XI-SI-Clustering"]
+	path = B31XI-SI-Clustering
+	url = https://github.com/ViBOT-Erasmus/B31XI-SI-Clustering.git
+[submodule "B31XI-SI-Syllabus"]
+	path = B31XI-SI-Syllabus
+	url = https://github.com/ViBOT-Erasmus/B31XI-SI-Syllabus
